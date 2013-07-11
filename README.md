@@ -1,4 +1,3 @@
 Hello-World
 ===========
-
-Hello world application
+My first hello world application in Github.
